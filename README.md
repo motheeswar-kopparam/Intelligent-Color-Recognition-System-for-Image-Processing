@@ -1,4 +1,4 @@
-# Intelligent-Color-Recognition-System-for-Image-Processing
+# VisionAI: An Intelligent Color Recognition System for Advanced Image Processing
 The Intelligent Color Recognition System for Image Processing is a computer vision-based application designed to accurately detect and identify colors in any given image. This project utilizes image processing techniques and machine learning algorithms to analyze an image, extract its color information, and display the detected colors along with their names.
 
 **Key Features:**
